@@ -1,0 +1,35 @@
+_repo: '-----_43009'
+_version: 0.1.0
+alternative_title: Gushi shijiu shou
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xiao, Tong
+    aliases:
+    - Liang Zhaoming tai zi
+    - 蕭統
+    - 萧统
+    - Liang Chao-ming t'ai tzu
+    - Zhaoming tai zi
+    - Hsiao, T'ung
+    birthdate: 501
+    deathdate: 531
+    gutenberg_agent_id: '41985'
+    url: http://www.gutenberg.org/2009/agents/41985
+    wikipedia: http://en.wikipedia.org/wiki/Xiao_Tong
+description: ''
+gutenberg_issued: '2013-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43009'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese poetry -- Qin and Han dynasties, 221 B.C.-220 A.D.'
+- !lcc 'PL'
+title: 古詩十九首
+url: http://www.gutenberg.org/ebooks/43009
