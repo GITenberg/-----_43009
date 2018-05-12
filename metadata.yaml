@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41985
     wikipedia: http://en.wikipedia.org/wiki/Xiao_Tong
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43009#-----
 gutenberg_issued: '2013-06-22'
 gutenberg_type: Text
 identifiers:
